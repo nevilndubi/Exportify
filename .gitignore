@@ -1,0 +1,10 @@
+secrets.py
+Pipfile
+__pycache__
+*.log
+
+# Personal Files
+playlists.txt
+new_playlists.txt
+last_playlists.txt
+token.txt
